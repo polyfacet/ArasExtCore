@@ -4,6 +4,9 @@ Misc. generic implementations, concepts and ideas from my years as a Aras develo
 
 ## Contents
 
+- [Contents](#contents)
+  - [Logging (Aras Innovator 14)](#logging-aras-innovator-14)
+
 ### Logging (Aras Innovator 14)
 
 The old OOTB/basic way of writing logs from within an Aras (C#) server method would look like this.
